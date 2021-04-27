@@ -1,0 +1,80 @@
+header{background-color:RGBA(211, 211, 211, 0.548);
+    padding: 7px;
+
+
+}
+h1{
+    font-family: 'Courgette', cursive;
+    font-weight:bold;
+}
+body{
+    background-image: "img/301.jpg";
+ 
+}
+#formy{
+position: relative;
+   margin-top: 30px;
+    margin-left: 50px;
+    font-family: 'Courgette', cursive;
+}
+
+input{
+    border-radius: 25px;
+    font-family: 'Courgette', cursive;
+}
+#user{
+    border-radius: 25px;
+    font-family: 'Courgette', cursive;
+
+}
+#type{
+    border-radius: 25px;
+    font-family: 'Courgette', cursive;
+
+}
+#mobileForm{ position: relative;
+
+    border-style:none;
+    padding: 20px; 
+    border-width: 100px;
+    border-color:whitesmoke;
+    background-color:RGBA(211, 211, 211, 0.548);
+    opacity: 70%;
+    margin-bottom: 20px;
+    margin-right: 900px;
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    font-weight: bold;
+
+}
+#table{
+    position: relative;
+    float: right;
+    margin-top: -170px;
+    margin-right: 50px;
+    border-style:none;
+    padding: 20px; ;
+    border-width: 100px;
+    border-color:whitesmoke;
+    background-color:RGBA(211, 211, 211, 0.548);
+    
+    font-family: 'Courgette', cursive;
+    
+
+}
+table{
+    opacity: 70%;
+    
+ }
+ table,tr,th{ color: white;
+     background-color:RGB(78, 78, 78);
+     border: white;
+    
+ }
+
+footer{background-color:RGBA(211, 211, 211, 0.548);
+    padding: 7px;
+    font-family: 'Courgette', cursive;
+    text-align: center;
+
+}
